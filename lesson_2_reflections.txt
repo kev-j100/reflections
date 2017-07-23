@@ -17,3 +17,7 @@ Branches can be used for creating different versions of your project. You can us
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help by showing you where different things are in the sequence. It's not easy to picture in your mind where the branches come off.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together results in new files with the new things from both branches in the new master. It is diagrammed that way because it is now the parent of two branches. 
