@@ -13,3 +13,7 @@ When you move files into the saging area without commiting. So if you make a cha
 What are some situations when brances would be helpful in keeping your history organized? How would branches help?
 
 Branches can be used for creating different versions of your project. You can use them so you don't get your different experiments or versions of the project mixed up and keep them separate.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help by showing you where different things are in the sequence. It's not easy to picture in your mind where the branches come off.
