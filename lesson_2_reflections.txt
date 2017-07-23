@@ -5,3 +5,11 @@ When you initialize a repository, it is set up for get but none of the files are
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is different from the working directory in that the files that are in the staging area are in the stage before being commited. It is valuable so you can have different files able to be committed. 
+
+How can you use the stagin area to make sure you have one commit per logical change?
+
+When you move files into the saging area without commiting. So if you make a change move your file to the staging area, you can have more in the working directory file that you haven't commited when you commit what is in the staging area.
+
+What are some situations when brances would be helpful in keeping your history organized? How would branches help?
+
+Branches can be used for creating different versions of your project. You can use them so you don't get your different experiments or versions of the project mixed up and keep them separate.
