@@ -21,3 +21,7 @@ Diagrams help by showing you where different things are in the sequence. It's no
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches together results in new files with the new things from both branches in the new master. It is diagrammed that way because it is now the parent of two branches. 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Manually takes more time and effort to do if you only added or took away from files in different branches. If there are major changes though, merging automatically may not be possible or will have major conficts with the merged files.
