@@ -9,3 +9,9 @@ You might be in the middle of chaning something and not want to overwrite your c
 Describe the differences between forks, clones, and branches. When you use one instead of another?
 
 You use forks on git hub itsself to make your own repository. Branches are made locally and are within the same repostory. Clones are copies either from a remote to a local or local to local.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is if you go offline it is there. Also you can possibly merge it when you feel you are ready.
+
+
